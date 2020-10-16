@@ -1,4 +1,4 @@
-"# school_comms" 
+#"school_comms" 
 
 So, as my son heads back to his special needs school we are told that his "Home-School" communication book can no longer be used. This gives us an in formal line of communication to the school so we can tell each other about stuff he has got up to or anything the other party needs to know. 
 
